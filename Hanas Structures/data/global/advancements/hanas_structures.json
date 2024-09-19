@@ -1,0 +1,18 @@
+{
+    "display": {
+        "title": "Hanas Structures",
+        "description": "And new ruins and settlements",
+        "icon": {
+            "item": "minecraft:player_head",
+            "nbt": "{SkullOwner: 'BaLLducked'}"
+        },
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "parent": "global:root",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
