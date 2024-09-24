@@ -1,0 +1,15 @@
+{
+    "name": "hanas_structures:dungeon_barracks",
+    "fallback": "ballducked:large_dungeon/dungeon_hallways",
+    "elements": [
+        {
+        "weight": 3,
+        "element": {
+            "element_type": "minecraft:single_pool_element",
+            "location": "ballducked:large_dungeon/barracks/barracks",
+            "projection": "rigid",
+            "processors": "empty"
+            }
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "name": "hanas_structures:dungeon_pit_trap",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 5,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "ballducked:large_dungeon/traps/spiked_pit_trap_1",
+                "override_liquid_settings": "ignore_waterlogging",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            }
+        }
+    ]
+}
